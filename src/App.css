@@ -1,0 +1,70 @@
+.App {
+  text-align: center;
+  font-family: Tahoma;
+  color: white;
+}
+
+.userBox {
+  height: 20vh;
+  width: 20vw;
+  display: inline-block;
+  background-color: yellow;
+  border: 1px solid black;
+  border-radius: 10%;
+  margin: 20px;
+  cursor: pointer;
+  text-align: center;
+  vertical-align: middle;
+  line-height: 300%;
+  font-size: 300%;
+  color: black;
+}
+
+.link{
+  text-decoration: none;
+  background-color: yellow;
+  color: black;
+  padding:10px;
+  font-size: 50px;
+  border: 2px solid black;
+  border-radius: 10px;
+  margin: 20px;
+}
+
+.movieDiv {
+  border: 1px solid transparent;
+  margin: 10px;
+  width: 200px;;
+  height: 230px;
+  display: inline-block;
+  background-color: transparent;
+  padding: 5px;
+}
+
+i {
+  cursor: pointer;
+  font-size: 30px;
+  color: black;
+}
+
+img{
+  height: 400px;
+  width: 300px;
+}
+
+.imgDiv {
+  border: 1px solid black;
+  cursor: pointer;
+  /* border-radius: 5%; */
+  width: 200px;
+  height: 200px;
+  align-self: center;
+  background-size: 200px 200px;
+}
+
+.movieContainer {
+  margin: 40px;
+  padding: 20px;
+  background-color: rgb(31, 31, 31);
+  border: 2px solid black;
+}
